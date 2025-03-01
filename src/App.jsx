@@ -12,7 +12,6 @@ import Bmi from './component2/Bmical'
 
 function App() {
 
-
   return (
     <div className='holecontainer'>
     
