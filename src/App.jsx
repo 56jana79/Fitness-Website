@@ -19,7 +19,7 @@ function App() {
 
     <BrowserRouter>
  <div className='navcontainer'>
-    <h2><Link to='/'>Home</Link></h2>
+    <h2><Link to='/'>House</Link></h2>
     <h2><Link to='/Bmi'>BMI Calculator</Link></h2>
     <h2><Link to='/Food'>Food</Link></h2>
     
